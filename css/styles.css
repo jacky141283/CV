@@ -1,0 +1,35 @@
+body {
+    background-color: #ffffff; 
+    margin: 0px;   
+}
+  
+hr {
+    border-color: rgb(160, 38, 38);
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 4px;
+    width: 10%;    
+}
+ 
+h3 {
+    color: #0e4bbd;
+}
+
+.top {
+    background-color: #D8D2CB;
+    text-align: center;
+}
+
+.name {
+    font-family: 'Sacramento', cursive;
+}
+
+.date {
+    font-size: 12px;
+    color: #3d3d50;    
+}
+
+.foot {
+    /* background-color: #398AB9; */
+    margin: 0px;
+}
